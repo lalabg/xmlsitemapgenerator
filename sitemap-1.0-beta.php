@@ -13,19 +13,7 @@
  Version 1.0-beta 2016/07/20 by Chandan Mishra
  
      * Initital release
-     * curl support - by Emanuel Ulses
-     * write url, then scan url - by Elmar Hanlhofer
-     * CLI / Website mode added
-     * Multiple extension support added
-     * Support for quoted URLs with spaces added
-     * Skip mailto links
-     * Converting special chars in the URLs for the XML file
-     * Added user agent
-     * Minor code updates
-     * Most program parts rewritten
-     * Using quotes on define command
-     * Supporting single and double quotes in href
-
+    
 *************************************************************/
 
     // Set the output file name.
